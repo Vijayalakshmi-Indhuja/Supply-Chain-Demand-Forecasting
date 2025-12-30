@@ -29,7 +29,7 @@ This project predicts product demand based on supply chain, logistics, and cost-
 - Models evaluated using appropriate metrics
 - Errors analyzed to identify failure cases
 - Final model selected based on generalization performance
-- 
+  
 ## 🛠️ Tech Stack
 - **Programming:** Python  
 - **ML:** Scikit-learn (Random Forest)  
