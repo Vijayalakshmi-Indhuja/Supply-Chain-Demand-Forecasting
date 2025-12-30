@@ -21,7 +21,15 @@ This project predicts product demand based on supply chain, logistics, and cost-
 - Added feature importance analysis for model explainability
 
 ---
+## 🧪 Model Design & Evaluation
 
+- Problem translated into supervised ML task
+- Baseline model established
+- Feature engineering applied to address underfitting / overfitting
+- Models evaluated using appropriate metrics
+- Errors analyzed to identify failure cases
+- Final model selected based on generalization performance
+- 
 ## 🛠️ Tech Stack
 - **Programming:** Python  
 - **ML:** Scikit-learn (Random Forest)  
